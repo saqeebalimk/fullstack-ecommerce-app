@@ -15,4 +15,6 @@
   "dependencies": {
     "concurrently": "^9.2.1"
   }
+  "homepage": "https://mohammedsaqeeb.github.io/fullstack-ecommerce-app"
+
 }
