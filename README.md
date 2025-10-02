@@ -36,7 +36,7 @@ ecommerce-test/
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/saqeebalimk/fullstack-ecommerce-app.git
    cd ecommerce-test
    ```
 
@@ -57,7 +57,7 @@ ecommerce-test/
 1. Start the backend server:
    ```
    cd backend
-   npm run dev
+   npm start
    ```
    The backend will run on http://localhost:5000 (or check server.js for port).
 
