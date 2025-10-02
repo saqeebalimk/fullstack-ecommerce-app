@@ -59,7 +59,7 @@ ecommerce-test/
    cd backend
    npm run dev
    ```
-   The backend will run on http://localhost:3001 (or check server.js for port).
+   The backend will run on http://localhost:5000 (or check server.js for port).
 
 2. Start the frontend:
    ```
